@@ -1,3 +1,8 @@
+For this assignment we had to refactor the html and css documents. This included fixing a link to an anchor on the page, adding alt text to all images, and adding a page title, among others. I also reorganized the css to group selectors first, followed by classes and ids. I also consolidated properties for the classes who had the same properties, in order to make the code shorter and more readable.
+
+URL: https://jxleilani.github.io/homework/Homework8.8/Develop/index.html
+
+# Assignment:
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -36,9 +41,10 @@ THEN I find a concise, descriptive title
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+- The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
+---
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
