@@ -31,6 +31,8 @@ p {
 
 .header h1 .seo {
     color: #d9dcd6;
+    font-style: italic;
+    letter-spacing: 2px;
 }
 
 .header nav {
@@ -152,7 +154,7 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
+/* Added a bonus for myself to try responsive layout */
 @media screen and (max-width:1040px){
     .header nav ul{
         display: none;

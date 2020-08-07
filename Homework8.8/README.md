@@ -1,4 +1,6 @@
-For this assignment we had to refactor the html and css documents. This included fixing a link to an anchor on the page, adding alt text to all images, and adding a page title, among others. I also reorganized the css to group selectors first, followed by classes and ids. I also consolidated properties for the classes who had the same properties, in order to make the code shorter and more readable.
+# Homework 1 : HTML CSS Code Refactor
+
+For this assignment we had to refactor the html and css documents. This included fixing a link to an anchor on the page, adding alt text to all images, adding a page title, and switching to semantic html tags, among others. I also reorganized the css to group selectors first, followed by classes and then ids. I consolidated properties for the classes who had the same properties, in order to make the code shorter and more readable. As a bonus to try, I also experimented with responsive design to get this webpage to fit better on smaller screens.
 
 URL: https://jxleilani.github.io/homework/Homework8.8/Develop/index.html
 
