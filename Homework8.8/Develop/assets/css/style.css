@@ -152,3 +152,39 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+@media screen and (max-width:1040px){
+    .header nav ul{
+        display: none;
+    }
+    .content{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+    .search-engine-optimization,
+    .online-reputation-management,
+    .social-media-marketing{
+        height: 100%
+    }
+    .search-engine-optimization h2,
+    .online-reputation-management h2,
+    .social-media-marketing h2{
+        clear: both;
+    }
+    .float-left {
+        margin: auto;
+    }
+
+    .float-right {
+        float: none;
+        margin: auto;
+    }
+    .benefits{
+        position: relative;
+        width: 75%;
+        right: 90px;
+    }
+}
+
